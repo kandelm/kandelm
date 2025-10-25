@@ -20,37 +20,41 @@
   
   <h3>💼 Professional Experience</h3>
   
+  **Souhoola** | Associate DevOps Engineer  
+  *Cairo, Egypt | Jul 2025 - Present*  
+  - Managed a Kubernetes cluster on Huawei Cloud for disaster recovery and high availability  
+  - Enhanced deployment efficiency and environment stability by optimizing DevOps practices  
+  
   **Index Info Tech** | Software Developer (Part-Time)  
-  *Cairo, Egypt | Jan 2025 - Present*  
-  - Enhanced backend features for EHS & GoCast Apps (NodeJS)
-  - Developed UI components for GoQ App (Flutter) and Epicor System (React)
-  - Collaborated in cross-functional agile teams
+  *Cairo, Egypt | Jan 2025 - Jun 2025*  
+  - Enhanced backend features for EHS & GoCast Apps (NodeJS)  
+  - Developed UI components for GoQ App (Flutter) and Epicor System (React)  
+  - Collaborated in cross-functional agile teams  
   
   **Orange Digital Hub** | DevOps Intern (Full-Time)  
   *Cairo, Egypt | Sep 2024 - Oct 2024*  
-  - Built 3-tier application using Docker/Kubernetes/Jenkins
-  - Implemented CI/CD pipelines for containerized apps
-  - Automated deployment processes
+  - Built 3-tier application using Docker/Kubernetes/Jenkins  
+  - Implemented CI/CD pipelines for containerized apps  
+  - Automated deployment processes  
   
   **National Bank of Egypt** | IT Intern (Full-Time)  
   *Cairo, Egypt | Aug 2024 - Sep 2024*  
-  - Optimized SQL queries and managed database systems
-  - Improved data integrity in deployment processes
+  - Optimized SQL queries and managed database systems  
+  - Improved data integrity in deployment processes  
   
   **Business Values Services** | Automation Intern (Part-Time)  
   *Cairo, Egypt | Jun 2024 - Sep 2024*  
-  - Implemented automation solutions for business processes
-  - Integrated software systems for improved data flow
+  - Implemented automation solutions for business processes  
+  - Integrated software systems for improved data flow  
 
   **Digital Egypt Pioneers** | DevOps Trainee  
   *Cairo, Egypt | Apr 2024 - Nov 2024*  
-  - Mastered Docker, Kubernetes, Ansible, Terraform, Jenkins
+  - Mastered Docker, Kubernetes, Ansible, Terraform, Jenkins  
   - Implemented monitoring with Prometheus
 </div>
 
 <h3>🔧 Core Technical Skills</h3>
 <p align="left">
-  <!-- Updated tools to match resume exactly -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
